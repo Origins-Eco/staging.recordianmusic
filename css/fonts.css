@@ -1,0 +1,38 @@
+/* Inter */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+/* Futura */
+@font-face {
+  font-family: 'futura maxi';
+  font-style: light;
+  font-weight: 200;
+  src: url(../assets/fonts/futura/FuturaMaxiCGLightRegular.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'futura maxi';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../assets/fonts/futura/FuturaMaxiCGBookRegular.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'futura maxi';
+  font-style: medium;
+  font-weight: 600;
+  src: url(../assets/fonts/futura/FuturaMedium.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'futura maxi';
+  font-style: bold;
+  font-weight: 700;
+  src: url(../assets/fonts/futura/FuturaMaxiCGDemiRegular.otf) format("opentype");
+}
+
+@font-face {
+  font-family: 'futura maxi';
+  font-style: bolder;
+  font-weight: 800;
+  src: url(../assets/fonts/futura/FuturaMaxiCGBoldRegular.otf) format("opentype");
+}
+/*# sourceMappingURL=fonts.css.map */
